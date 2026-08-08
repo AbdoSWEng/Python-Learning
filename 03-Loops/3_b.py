@@ -5,4 +5,4 @@ theSum = 0
 for number in range(lower, upper + 1):
     theSum = theSum + number
 
-print(theSum)
+print("The sum is ",theSum)
